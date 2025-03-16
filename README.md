@@ -1,7 +1,7 @@
 # My current Wallpapers
 
 > [!NOTE]
-> These wallpapers are sourced from many, many, many sources on the internet. I did not make all of these, btw most are in  catppuccin-mocha colour scheme. No credit really goes to me in that regard, I'm just the collector.
+> These wallpapers are sourced from many, many, many sources on the internet. I did not make all of these,  most are in  catppuccin-mocha colour scheme. No credit really goes to me in that regard, I'm just the collector.
 Also check the repo that this was forked from
 
 Installation Instructions below btw
