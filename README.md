@@ -9,8 +9,8 @@ Installation Instructions below btw
 ## Preview
 | Column 1 | Column 2 | Column 3 | Column 4 |
 |---------|---------|---------|---------|
-| ![Astrolabe](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/_Wallpaper(1).png)  | ![abandoned-trainstation.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/abandoned-trainstation.jpg) | ![abstract-swirls.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/abstract-swirls.jpg) | ![misty-boat.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/misty-boat.jpg) |
-| ![Aurora](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/aurora_borealis.png) | ![Car](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/car1.png) | ![Street](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wallpaper-theme-converter5.png) | ![Windows XP](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/windows-xp.jpg)  |
+| ![Astrolabe](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/_Wallpaper(1).png)  | ![abandoned-trainstation.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/abandoned-trainstation.jpg) | ![abstract-swirls.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/abstract-swirls.jpg) | ![misty-boat.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/misty-boat.jpg) |
+| ![Aurora](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/aurora_borealis.png) | ![Car](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/car1.png) | ![Street](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/wallpaper-theme-converter5.png) | ![Windows XP](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/windows-xp.jpg)  |
 
 ## Installation
 **Option 1 (requires git)**
