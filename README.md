@@ -1,8 +1,10 @@
 # My current Wallpapers
 
 > [!NOTE]
-> These wallpapers are sourced from many, many, many sources on the internet. I did not make all of these,  most are in  catppuccin-mocha color scheme. No credit really goes to me in that regard, I'm just the collector.
-Also check the repo that this was forked from
+
+- These wallpapers are sourced from many sources on the internet. I did not make all of these,  most are in  catppuccin-mocha color scheme. No credit really goes to me in that regard, I'm just the collector.
+- Also check the repo that this was forked from
+- there are some shots from Unsplash and ai generated images here with catppuccin-mocha as the color scheme, used lutgen for that
 
 Installation Instructions below btw
 
