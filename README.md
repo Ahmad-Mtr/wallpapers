@@ -13,7 +13,7 @@ Installation Instructions below btw
 ## Preview
 | Column 1 | Column 2 | Column 3 | Column 4 |
 |---------|---------|---------|---------|
-| ![Astrolabe](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/_Wallpaper(1).png)  | ![abandoned-trainstation.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/abandoned-trainstation.jpg) | ![abstract-swirls.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/abstract-swirls.jpg) | ![pompei.png](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/) |
+| ![Astrolabe](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/_Wallpaper(1).png)  | ![abandoned-trainstation.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/abandoned-trainstation.jpg) | ![abstract-swirls.jpg](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/abstract-swirls.jpg) | ![pompei.png](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/pompeii.png) |
 | ![Aurora](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/temerald/aurora_borealis.png) | ![Abstract.png](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/temerald/oxana-golubets-lXHx-zumrJs-unsplash.jpg) | ![Street](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/wallpaper-theme-converter5.png) | ![Windows XP](https://raw.githubusercontent.com/Ahmad-Mtr/wallpapers/main/wps/catppuccin/windows-xp.jpg)  |
 
 ## Installation
